@@ -3,7 +3,8 @@
  
  This project leverages AI and computer vision to classify the freshness of meat (Beef) based on color features.
 
-![App Demo](Meat%20Quality.gif)
+![App Demo](meat_quality.gif)
+
 
 
 
