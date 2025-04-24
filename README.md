@@ -20,9 +20,6 @@
  
  Tech Stack
  
- Microsoft Custom Vision (Image Classification) - Link: https://www.customvision.ai/   
- **Learn about Microsoft Custom Vision : https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/**
- 
  Microsoft Custom Vision (Image Classification) - Link: https://www.customvision.ai/  
  Flutter (Mobile UI)
  TensorFlow Lite (Offline Model Deployment)
