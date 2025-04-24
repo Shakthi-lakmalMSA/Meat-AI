@@ -3,7 +3,7 @@
  
  This project leverages AI and computer vision to classify the freshness of meat (Beef) based on color features.
  
- #Key Features:
+ Key Features:
  
  AI-Powered Freshness Detection: Classifies  meat freshness into categories (e.g., Fresh, Moderately Fresh, Spoiled) using image color characteristics.
  Cross-Platform Mobile App: Built with Flutter for both Android and iOS, offering real-time, user-friendly inspections.
