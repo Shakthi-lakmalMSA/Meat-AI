@@ -5,8 +5,6 @@
 
 ![App Demo](meat_quality.gif)
 
-
-
  
  Key Features:
  
