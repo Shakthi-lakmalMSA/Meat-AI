@@ -23,9 +23,9 @@
  
 Tech Stack
  
- Microsoft Custom Vision (Image Classification) - Link: https://www.customvision.ai/
- Flutter (Mobile UI)
- TensorFlow Lite (Offline Model Deployment)
+ Microsoft Custom Vision (Image Classification) - Link: https://www.customvision.ai/ ,
+ Flutter (Mobile UI),
+ TensorFlow Lite (Offline Model Deployment),
  C++
 
 
