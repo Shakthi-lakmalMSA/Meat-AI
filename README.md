@@ -2,6 +2,9 @@
  *Built with Microsoft Custom Vision & Flutter*
  
  This project leverages AI and computer vision to classify the freshness of meat (Beef) based on color features.
+
+![Uploading Meat Quality.gif…]()
+
  
  Key Features:
  
