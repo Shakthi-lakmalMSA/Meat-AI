@@ -1,5 +1,5 @@
-                                                                               # Meat-AI - Meat Freshness Classification Using AI
-                                                                                  Built with Microsoft Custom Vision & Flutter
+# Meat-AI - Meat Freshness Classification Using AI
+*Built with Microsoft Custom Vision & Flutter*
 
 This open-source project leverages AI and computer vision to classify the freshness of meat (Beef) based on color features.
 
