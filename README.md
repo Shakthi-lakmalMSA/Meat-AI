@@ -34,7 +34,9 @@ Tech Stack
 
 
 
-#Customize this for your model which build on Azure custom vision
+
+
+## Try Your own model with Microsoft Azure Custom Vision
 
 ## Prerequisites
 
