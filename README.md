@@ -142,4 +142,4 @@ Before you begin, ensure you have the following installed and set up:
     flutter run
     ```
 
-The app should now load your custom TensorFlow Lite model and use it for image classification when you use the Camera or Gallery features.
+Demo Day Preseantation - https://stdntpartners-my.sharepoint.com/:p:/g/personal/shakthi_lakmal_studentambassadors_com/EY1yjS2mWU9PlzF-FTGodqgByjX6J2ZFZC9PqSazMR8ykg?e=7uv007&nav=eyJzSWQiOjI3MSwiY0lkIjoyNDczNDgyNTI4fQ
